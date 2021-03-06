@@ -1,0 +1,16 @@
+Please enter output period:
+Please enter the first number:
+FIB!
+Please enter the new number:
+FIB!
+Please enter the new number:
+Please enter the new number:
+Timer is paused.
+Please enter the new number:
+Timer is running.
+Please enter the new number:
+Please enter the new number:
+Please enter the new number:
+FIB!
+2:6, 4:2, 6:2, 52:2, 333:2, 655555555555555555555555:2
+See you next time!
